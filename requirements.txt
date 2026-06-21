@@ -1,0 +1,11 @@
+# --- Основные зависимости ассистента ---
+groq==0.11.0
+edge-tts==6.1.12
+vosk==0.3.45
+sounddevice==0.4.7
+pillow==10.4.0
+
+# --- Жестовое управление (jarvis_graph.py) ---
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
